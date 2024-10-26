@@ -60,6 +60,14 @@ Here are the key visualizations from the analysis:
 - **Total Charges by Churn**
 - 
   ![Total Charges by Churn](images/total_charges_churn.png)
+  
+- **Churn by gender**
+- 
+  ![Churn by gender](images/churn_rate_by_gender.png)
+
+- **Churn bu Senior citizenship status**
+- 
+  ![Churn bu Senior citizenship status](images/churn_rate_senior_citizen.png)
 
   
 
