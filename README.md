@@ -37,8 +37,9 @@ This project aims to analyze customer churn patterns in a telecom company and pr
 
 Here are the key visualizations from the analysis:
 
-- **Churn Distribution**
+
   ![Churn Distribution](images/churn_distribution.png)
+  - **Churn Distribution**
 
 - **Tenure Histogram**
   ![Tenure Histogram](images/tenure_histogram.png)
