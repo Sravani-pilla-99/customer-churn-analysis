@@ -36,21 +36,25 @@ This project aims to analyze customer churn patterns in a telecom company and pr
 ### Visualizations
 
 Here are the key visualizations from the analysis:
-
-
-  ![Churn Distribution](images/churn_distribution.png)
   - **Churn Distribution**
 
+  ![Churn Distribution](images/churn_distribution.png)
+
+
 - **Tenure Histogram**
+- 
   ![Tenure Histogram](images/tenure_histogram.png)
 
 - **Churn Rate by Contract Type**
+- 
   ![Churn Rate by Contract Type](images/churn_rate_contract_type.png)
 
 - **Monthly Charges by Churn**
+- 
   ![Monthly Charges by Churn](images/monthly_charges_churn.png)
 
 - **Total Charges by Churn**
+- 
   ![Total Charges by Churn](images/total_charges_churn.png)
 
 
