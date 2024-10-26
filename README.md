@@ -65,7 +65,7 @@ Here are the key visualizations from the analysis:
 - 
   ![Churn by gender](images/churn_rate_by_gender.png)
 
-- **Churn bu Senior citizenship status**
+- **Churn by Senior citizenship status**
 - 
   ![Churn bu Senior citizenship status](images/churn_rate_senior_citizen.png)
 
@@ -73,5 +73,4 @@ Here are the key visualizations from the analysis:
 
 
 ## Conclusion
-This analysis highlights key factors influencing churn, such as contract type and monthly charges. Implementing these insights could improve customer retention rates.
-
+This analysis highlights key factors influencing customer churn, particularly related to contract type, monthly charges, and senior citizen status. By implementing the suggested actions, the telecom company can potentially reduce churn rates and improve customer satisfaction.
